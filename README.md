@@ -1,4 +1,7 @@
 # Projeto-LG1A1
+
+Executar o Admin.exe
+
 Projeto em C que consiste em um sitema de Drive Thru.
 
 Conta com os seguintes módulos:
